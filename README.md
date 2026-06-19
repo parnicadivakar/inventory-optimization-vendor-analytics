@@ -84,4 +84,16 @@ Inventory-Optimization-Vendor-Analytics/
 ├── Screenshots/
 
 └── README.md
+## Dashboard Preview
 
+### Executive Sales Overview
+![Executive Overview](Screenshots/executive_overview.png)
+
+### Inventory Intelligence
+![Inventory Intelligence](Screenshots/inventory_intelligence.png)
+
+### Vendor Performance Analytics
+![Vendor Performance](Screenshots/vendor_performance.png)
+
+### Sales Performance Analytics
+![Sales Performance](Screenshots/sales_performance.png)
