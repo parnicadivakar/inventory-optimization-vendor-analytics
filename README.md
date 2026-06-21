@@ -71,19 +71,6 @@ This project helps stakeholders monitor inventory, evaluate suppliers, and ident
 * Improved visibility into inventory holdings and stock distribution.
 * Delivered interactive dashboards for business decision-making.
 
-## Project Structure
-
-Inventory-Optimization-Vendor-Analytics/
-
-├── SQL/
-
-├── PowerBI/
-
-├── Dataset/
-
-├── Screenshots/
-
-└── README.md
 
 ## Dashboard Preview
 
